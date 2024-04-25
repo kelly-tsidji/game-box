@@ -9,7 +9,7 @@ https://kelly-tsidji.github.io/game-box/
 * Subscription Plans Page: Allows users to compare and choose from different subscription plans.
 * Contact Us Page: Provides users with various ways to get in touch with GameBox, including a contact form and contact information.
 
-## Behind the Site
+## Technologies Used
 * HTML: Used to structure the content of the website.
 * CSS: Styled the website to enhance visual appeal and user experience.
 * JavaScript/jQuery: Implemented interactive features such as scroll effects for the header.
