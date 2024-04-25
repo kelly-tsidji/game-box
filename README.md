@@ -2,7 +2,7 @@
 Welcome to the GameBox website! This website allows users to subscribe to a variety of board games delivered monthly to their doorstep. Whether you're a casual gamer, a board game enthusiast, or looking for family fun, GameBox has something for everyone.
 
 ## How To View the Page
-()
+(https://kelly-tsidji.github.io/game-box/index.html)
 
 ## Features
 * Homepage: Introduces users to the concept of GameBox.
